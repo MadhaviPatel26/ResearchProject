@@ -7,14 +7,14 @@ The objective of credit card theft is clear. You can remove a large sum of money
 * Sklearn
 ## Dataset
 The data is broken into two files identity and transaction, which are joined by TransactionID. Not all transactions have corresponding identity information.
-### Categorical Features - Transaction
+##### Categorical Features - Transaction
 * ProductCD
 * card1 - card6
 * addr1, addr2
 * P_emaildomain
 * R_emaildomain
 * M1 - M9
-### Categorical Features - Identity
+##### Categorical Features - Identity
 * DeviceType
 * DeviceInfo
 * id_12 - id_38
